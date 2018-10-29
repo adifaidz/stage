@@ -1,0 +1,17 @@
+{
+    "name": "chimcoders/stage",
+    "description": "Client API library base",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adi Faidz",
+            "email": "adifaidzabdullah@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Chimcoders\\Stage\\": "src"
+        }
+    },
+    "require": {}
+}
